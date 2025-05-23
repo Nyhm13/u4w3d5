@@ -114,6 +114,7 @@ public class Main {
 //            System.out.println("\n--- Rimozione Rivista (ISBN: " + rivista1.getIsbn() + ") ---");
 //            prestitoDao.removeByElementoIsbn(rivista1.getIsbn());
 //            elementoDao.remove(rivista1.getIsbn());
+            
 
             // 11. Rimuovo un elemento
             System.out.println("\n--- Rimozione Libro (ISBN: " + libro3.getIsbn() + ") ---");
